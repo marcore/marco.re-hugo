@@ -9,8 +9,10 @@ title = "New site & new workflow!"
 
 ### TLDR ###
 
-This is a blog hosted on Github Pages , generated with Hugo site generator
-and with a local workflow based on Docker.
+This is a blog hosted on [Github Pages](https://pages.github.com/) , generated
+with [Hugo](https://gohugo.io/) sites generator and with a local workflow based
+on [Docker}(https://docker.io/).
+Additional spcies comes with [CloudFare](https://www.cloudflare.com)!
 Go ahead if you wish to know how this stuff goes together!
 
 <!--more-->
