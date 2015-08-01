@@ -12,7 +12,7 @@ title = "New site & new workflow!"
 This is a blog hosted on [Github Pages](https://pages.github.com/) , generated
 with [Hugo](https://gohugo.io/) sites generator and with a local workflow based
 on [Docker}(https://docker.io/).
-Additional spcies comes with [CloudFare](https://www.cloudflare.com)!
+Additional spices comes with [CloudFare](https://www.cloudflare.com)!
 Go ahead if you wish to know how this stuff goes together!
 
 <!--more-->
