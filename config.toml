@@ -5,7 +5,7 @@ copyright = "© 2015 Marco Re"
 theme= "greyshade"
 [author]
   name = "Marco Re"
-
+  email= "mrc.re@tiscali.it"
 
 [params]
   github_user="marcore"
